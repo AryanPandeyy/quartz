@@ -1,5 +1,5 @@
 ---
-title: "The Forging Of The Sadvipra 1"
+title: ⚔️🛡️The Forging Of The Sadvipra 1
 tags:
 - sadvipra
 ---
