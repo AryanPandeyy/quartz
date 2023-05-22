@@ -1,4 +1,10 @@
+---
+title: 🪴 BlockChain
+tags: 
+- technology
+---
 # Module 1
+
 ## Difference between centralized, decentralized and distributed architecture?
 
 

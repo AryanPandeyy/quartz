@@ -3,6 +3,7 @@ title: "The Forging Of The Sadvipra 3"
 tags:
 - sadvipra
 ---
+[[sadvipra]]
 How do we define a Tantric as a Deva or divine personality – what are the external criteria. Shrii Sarkar explains:
 
 > When ideology is totally reflected in a personality, that very personality is worshipped as a divine personality, a god. Ordinary people follow His instructions; they want to be guided by His will, because they experience bliss by moving in this way.
