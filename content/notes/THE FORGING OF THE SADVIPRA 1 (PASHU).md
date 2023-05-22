@@ -3,7 +3,7 @@ title: "The Forging Of The Sadvipra 1"
 tags:
 - sadvipra
 ---
-[[sadvipra]]
+[[notes/sadvipra]]
 The first level of the Tantra aspirant is that of an animal. The Hitopadesha explains this state saying,
 
 _Áhára nidrá bhaya maethunaiṋca sámányametad pashubhiirnaránám;  

@@ -3,7 +3,7 @@ title: "The Forging Of The Sadvipra 2"
 tags:
 - sadvipra
 ---
-[[sadvipra]]
+[[notes/sadvipra]]
 With the attainment of the status of a viira, Tantra begins to blossom in one’s life. To become a hero means to become a leader through dedication, sincerity, ideological zeal, fighting spirit and all-round capacity. Such heroes are physically fit, mentally developed and spiritually elevated. People will recognize such proto-Sadvipras by their exemplary conduct, selfless service, dutifulness and moral integrity. Such heroes are not simply motivated by external pressure orchestrated by the Sadguru, rather they now acquire and internal urge for expansion and for heroic deeds. They feel that the source of psychic inspiration is that Supreme Controller. And they are to fight against all depraving, all degenerating, forces with the help of that Supreme Entity. Struggle in the mental sphere is harder and more complicated than in the material sphere. As such, more mental power, more powerful nerve fibres and nerve cells are required. Shrii Sarkar explains the evolution of such heroes as follows:
 
 > With continued spiritual practice according to the dictates of the Master, the aspirant comes to [human status], or viirabháva. Animals need external pressure: in pashvácára sádhaná; one controls oneself to attain elevation to viirabháva. Those beyond the animal stage cannot get elevation through external control only. They need external pressure and internal urge. With the rise of a spiritual inspiration, the aspirant becomes a viira (noble) and when this viirabháva is fully assimilated, the person becomes godlike.  
